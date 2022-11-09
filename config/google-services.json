@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1",
+    "project_id": "1",
+    "storage_bucket": "appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123:android:123",
+        "android_client_info": {
+          "package_name": "com.google.android.gms.example.nativeadsexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Aaaaaaaaaaaaaaaaaaaaaaaaaa-aaaaaaaaaaaa"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
